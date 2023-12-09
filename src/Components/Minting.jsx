@@ -14,18 +14,18 @@ const Minting = () => {
                                                 <div className="col-lg-6 col-12 pt-135 ">
 
                                                         <div className="ml-143">
-                                                                <h2 className=" pb-3 pb-sm-5 fs-xl1 fw-medium text-white lh-136 m-0 ">Mint Your Bat</h2>
+                                                                <h2 className=" ff-poppins pb-3 pb-sm-5 fs-xl1 fw-medium text-white lh-136 m-0 ">Mint Your Bat</h2>
                                                         </div>
                                                         <div className="ml-143">
-                                                                <h2 className=" fs-xl fw-medium text-white lh-136 m-0 ">Minting: 1,5 SOL</h2>
-                                                                <p className=" fs-sm1 fw-normal lh-136 opcity-5 text-white line-through">Before 2 SOL</p>
+                                                                <h2 className=" ff-poppins fs-xl fw-medium text-white lh-136 m-0 ">Minting: 1,5 SOL</h2>
+                                                                <p className=" ff-poppins fs-sm1 fw-normal lh-136 opcity-5 text-white line-through">Before 2 SOL</p>
                                                         </div>
 
                                                         <div className="pb-60 ml-143">
-                                                                <h2 className=" fs-xl fw-medium text-white lh-136">Whitelist: 0,88 SOL</h2>
-                                                                <p className=" fs-sm1 fw-normal lh-136 opcity-5 text-white line-through">Before 2 SOL</p>
+                                                                <h2 className=" ff-poppins fs-xl fw-medium text-white lh-136">Whitelist: 0,88 SOL</h2>
+                                                                <p className=" ff-poppins fs-sm1 fw-normal lh-136 opcity-5 text-white line-through">Before 2 SOL</p>
                                                         </div>
-                                                        <button className=" sec-1-btn fs-sm1 fw-medium drkblue ml-143">Coming soon</button>
+                                                        <button className=" ff-poppins sec-1-btn fs-sm1 fw-medium drkblue ml-143">Coming soon</button>
                                                         <div className='ml-143 pt-3  d-flex align-items-center gap-4'>
                                                                 <a className='icon' href=""><svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33" fill="none">
                                                                         <path d="M16.1287 10.85C13.1663 10.85 10.7488 13.2675 10.7488 16.2299C10.7488 19.1922 13.1663 21.6097 16.1287 21.6097C19.091 21.6097 21.5085 19.1922 21.5085 16.2299C21.5085 13.2675 19.091 10.85 16.1287 10.85ZM32.2642 16.2299C32.2642 14.0021 32.2844 11.7944 32.1593 9.57063C32.0342 6.98766 31.4449 4.69526 29.5561 2.80646C27.6633 0.913621 25.3749 0.328415 22.7919 0.203302C20.5641 0.0781889 18.3565 0.0983684 16.1327 0.0983684C13.9049 0.0983684 11.6972 0.0781889 9.47347 0.203302C6.89049 0.328415 4.59809 0.917657 2.70929 2.80646C0.816453 4.6993 0.231247 6.98766 0.106134 9.57063C-0.0189791 11.7985 0.00120046 14.0061 0.00120046 16.2299C0.00120046 18.4537 -0.0189791 20.6653 0.106134 22.8891C0.231247 25.4721 0.820489 27.7645 2.70929 29.6533C4.60213 31.5461 6.89049 32.1313 9.47347 32.2565C11.7013 32.3816 13.9089 32.3614 16.1327 32.3614C18.3605 32.3614 20.5682 32.3816 22.7919 32.2565C25.3749 32.1313 27.6673 31.5421 29.5561 29.6533C31.449 27.7605 32.0342 25.4721 32.1593 22.8891C32.2884 20.6653 32.2642 18.4577 32.2642 16.2299ZM16.1287 24.5075C11.5479 24.5075 7.85103 20.8106 7.85103 16.2299C7.85103 11.6491 11.5479 7.95224 16.1287 7.95224C20.7094 7.95224 24.4063 11.6491 24.4063 16.2299C24.4063 20.8106 20.7094 24.5075 16.1287 24.5075ZM24.7453 9.54642C23.6758 9.54642 22.8121 8.68274 22.8121 7.61322C22.8121 6.54371 23.6758 5.68002 24.7453 5.68002C25.8148 5.68002 26.6785 6.54371 26.6785 7.61322C26.6788 7.86718 26.6291 8.11871 26.532 8.3534C26.435 8.58809 26.2926 8.80133 26.113 8.98091C25.9334 9.16049 25.7202 9.30287 25.4855 9.39991C25.2508 9.49695 24.9993 9.54674 24.7453 9.54642Z" fill="white" />

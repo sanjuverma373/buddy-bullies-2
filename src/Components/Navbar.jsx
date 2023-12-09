@@ -32,7 +32,7 @@ const Navbar = () => {
                         <div className="container">
                                 <nav className="pt-4">
                                         <div className="d-flex align-items-cneter justify-content-between">
-                                                <span className='text-white fs-lg fw-semibold lh-150'>Logo</span>
+                                                <span className=' ff-poppins text-white fs-lg fw-semibold lh-150'>Logo</span>
                                                 <div onClick={openNav} className="menu d-block d-lg-none z-5">
                                                         <span className="nav-line1"></span>
                                                         <span className="my-2 nav-line2"></span>
@@ -40,19 +40,19 @@ const Navbar = () => {
                                                 </div>
                                                 <ul id="navBar" className="d-flex align-items-center gap-5 mb-0 mobileView">
                                                         <li><a onClick={closeNav} href="#minting"
-                                                                className="fs-md fw-medium text-white mb-0 position-relative nav-line minting">Minting</a>
+                                                                className="fs-md ff-poppins fw-medium text-white mb-0 position-relative nav-line minting">Minting</a>
                                                         </li>
                                                         <li><a onClick={closeNav} href="#roadmap"
-                                                                className="fs-md fw-medium text-white mb-0 position-relative nav-line roadmap">Road Map</a>
+                                                                className="fs-md ff-poppins fw-medium text-white mb-0 position-relative nav-line roadmap">Road Map</a>
                                                         </li>
                                                         <li><a onClick={closeNav} href="#faq"
-                                                                className="fs-md fw-medium text-white mb-0 position-relative nav-line faq">Faq</a>
+                                                                className="fs-md ff-poppins fw-medium text-white mb-0 position-relative nav-line faq">Faq</a>
                                                         </li>
                                                         <li><a onClick={closeNav} href="#team"
-                                                                className="fs-md fw-medium text-white mb-0 position-relative nav-line team">Team</a>
+                                                                className="fs-md ff-poppins fw-medium text-white mb-0 position-relative nav-line team">Team</a>
                                                         </li>
                                                         <li><a onClick={closeNav} href="#join"
-                                                                className="fs-md fw-medium text-white mb-0 position-relative nav-line join">Join Us</a>
+                                                                className="fs-md ff-poppins fw-medium text-white mb-0 position-relative nav-line join">Join Us</a>
                                                         </li>
 
                                                 </ul>

@@ -55,8 +55,8 @@ const Map = () => {
                 <div className='col-xl-4 col-md-6 col-12 '>
                         <div className= {`common-crd ${crds.className}`}>
                             <img src={crds.image1} alt="crds.alt" />
-                            <h2 className='m-0 fs-xl fw-semibold pb-4 text-white pt-2 '>{crds.heading}</h2>
-                            <p className='fs-sm1 fw-normal text-white opcity-7'>{crds.para}</p>
+                            <h2 className='m-0 fs-xl fw-semibold pb-4 text-white pt-2 ff-poppins '>{crds.heading}</h2>
+                            <p className='fs-sm1 fw-normal text-white opcity-7 ff-poppins'>{crds.para}</p>
                         </div>                  
  </div>    
  ))
