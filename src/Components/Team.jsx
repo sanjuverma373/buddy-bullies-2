@@ -36,7 +36,7 @@ const Team = () => {
   return (
     <div className='bg-blue pt-5' id="team">
       <div className="container">        
-      <h3 className="fs-xl1 fw-medium text-white lh-136 text-center m-0 pb-5 ">FAQs</h3>
+      <h3 className="fs-xl1 fw-medium text-white lh-136 text-center m-0 pb-5 ">Our Team</h3>
          <div className="row">
               {teamc}
          </div>
