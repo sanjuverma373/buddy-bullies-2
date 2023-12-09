@@ -39,19 +39,19 @@ const Navbar = () => {
                                                         <span className="nav-line3"></span>
                                                 </div>
                                                 <ul id="navBar" className="d-flex align-items-center gap-5 mb-0 mobileView">
-                                                        <li><a onClick={closeNav} href="#redact"
+                                                        <li><a onClick={closeNav} href="#minting"
                                                                 className="fs-md fw-medium text-white mb-0 position-relative nav-line minting">Minting</a>
                                                         </li>
-                                                        <li><a onClick={closeNav} href="#extract"
+                                                        <li><a onClick={closeNav} href="#roadmap"
                                                                 className="fs-md fw-medium text-white mb-0 position-relative nav-line roadmap">Road Map</a>
                                                         </li>
-                                                        <li><a onClick={closeNav} href="#detect"
+                                                        <li><a onClick={closeNav} href="#faq"
                                                                 className="fs-md fw-medium text-white mb-0 position-relative nav-line faq">Faq</a>
                                                         </li>
-                                                        <li><a onClick={closeNav} href="#compare"
+                                                        <li><a onClick={closeNav} href="#team"
                                                                 className="fs-md fw-medium text-white mb-0 position-relative nav-line team">Team</a>
                                                         </li>
-                                                        <li><a onClick={closeNav} href="#compare"
+                                                        <li><a onClick={closeNav} href="#join"
                                                                 className="fs-md fw-medium text-white mb-0 position-relative nav-line join">Join Us</a>
                                                         </li>
 
